@@ -1,5 +1,5 @@
-Code for "patchy invasion of stage-structured alien species with short-distance and long-distance dispersal"
-Authors: 
+Code for the document "patchy invasion of stage-structured alien species with short-distance and long-distance dispersal"
+Authors of the document: 
   Luiz Alberto Díaz Rodrigues1 ·
  Diomar Cristina Mistro1 · Elisa Regina Cara2 ·
  Natalia Petrovskaya3 · Sergei Petrovskii4
